@@ -1,8 +1,10 @@
 {
 	"a-thousand-floating-dreams": "千夜浮夢",
+	"absolution": "赦罪",
 	"akuoumaru": "惡王丸",
 	"alley-hunter": "暗巷獵手",
 	"amos-bow": "阿莫斯之弓",
+	"astral-vultures-crimson-plumage": "星鷲赤羽",
 	"aqua-simulacra": "若水",
 	"aquila-favonia": "風鷹劍",
 	"beacon-of-the-reed-sea": "葦海信標",
@@ -12,6 +14,7 @@
 	"cashflow-supervision": "金流監督",
 	"cool-steel": "冷刃",
 	"cranes-echoing-call": "鶴鳴餘音",
+	"crimson_moon_s-semblance": "赤月之形",
 	"debate-club": "以理服人",
 	"dragon_s-bane": "匣裡滅辰",
 	"elegy-for-the-end": "終末嗟嘆之詩",
@@ -19,13 +22,16 @@
 	"engulfing-lightning": "薙草之稻光",
 	"everlasting-moonglow": "不滅月華",
 	"eye-of-perception": "昭心",
+	"fang-of-the-mountain-king": "山王長牙",
 	"favonius-codex": "西風秘典",
 	"favonius-greatsword": "西風大劍",
 	"favonius-lance": "西風長槍",
 	"favonius-sword": "西風劍",
 	"favonius-warbow": "西風獵弓",
 	"ferrous-shadow": "鐵影闊劍",
+	"flower-wreathed-feathers": "綴花之翎",
 	"freedom-sworn": "蒼古自由之誓",
+	"fruitful-hook": "碩果鉤",
 	"haran-geppaku-futsu": "波乱月白经津",
 	"harbinger-of-dawn": "黎明神劍",
 	"hunter_s-path": "獵人之徑",
@@ -37,12 +43,15 @@
 	"lithic-blade": "千巖古劍",
 	"lithic-spear": "千巖長槍",
 	"lost-prayer-to-the-sacred-winds": "四風原典",
+	"lumidouce-elegy": "柔燈輓歌",
 	"magic-guide": "魔導緒論",
 	"makhaira-aquamarine": "瑪海菈的水色",
 	"memory-of-dust": "塵世之鎖",
 	"mistsplitter-reforged": "霧切之迴光",
 	"mitternachts-waltz": "幽夜華爾滋",
+	"mountain-bracing-bolt": "鎮山之釘",
 	"mouun_s-moon": "曚雲之月",
+	"peak-patrol-song": "岩峰巡歌",
 	"polar-star": "冬極白星",
 	"portable-power-saw": "便攜動力鋸",
 	"primordial-jade-cutter": "磐岩結綠",
@@ -58,6 +67,7 @@
 	"sacrificial-greatsword": "祭禮大劍",
 	"sacrificial-sword": "祭禮劍",
 	"sharpshooter_s-oath": "神射手之誓",
+	"silvershower-heartstrings": "白雨心弦",
 	"skyrider-sword": "飛天禦劍",
 	"skyward-atlas": "天空之卷",
 	"skyward-blade": "天空之刃",
@@ -69,7 +79,9 @@
 	"splendor-of-tranquil-waters": "靜水流湧之輝",
 	"staff-of-homa": "護摩之杖",
 	"staff-of-the-scarlet-sands": "赤沙之杖",
+	"sturdy-bone": "彌堅骨",
 	"summit-shaper": "斫峰之刃",
+	"surfs-up": "衝浪時光",
 	"the-alley-flash": "暗巷閃光",
 	"the-bell": "鐘劍",
 	"the-dockhands-assistant": "船塢長劍",
@@ -86,8 +98,9 @@
 	"verdict": "裁斷",
 	"vortex-vanquisher": "貫虹之槊",
 	"wavebreaker_s-fin": "斷浪長鰭",
-	"wine-and-song": "暗巷的酒與詩",
 	"wandering-evenstar": "流浪的晚星",
+	"waveriding-whirl": "乘浪的迴旋",
+	"wine-and-song": "暗巷的酒與詩",
 	"wolf_s-gravestone": "狼的末路",
 	"xiphos-moonlight": "西福斯的月光",
 	"albedo": {
@@ -97,6 +110,10 @@
 	"alhaitham": {
 		"name": "艾爾海森",
 		"title": "誨韜詤言"
+	},
+	"arlecchino": {
+		"name": "阿蕾奇諾",
+		"title": "孤暝厄月"
 	},
 	"amber": {
 		"name": "安柏",
@@ -130,6 +147,10 @@
 		"name": "夏洛蒂",
 		"title": "朗鏡索真"
 	},
+	"chasca": {
+		"name": "恰斯卡",
+		"title": "巡宇翦定"
+	},
 	"chevreuse": {
 		"name": "夏沃蕾",
 		"title": "明律決罰"
@@ -141,6 +162,10 @@
 	"chongyun": {
 		"name": "重雲",
 		"title": "雪融有踪"
+	},
+	"clorinde": {
+		"name": "克洛琳德",
+		"title": "秉燭獮影"
 	},
 	"collei": {
 		"name": "柯萊",
@@ -165,6 +190,10 @@
 	"dori": {
 		"name": "多莉",
 		"title": "夢園藏金"
+	},
+	"emilie": {
+		"name": "艾梅莉埃",
+		"title": "千縷之蹤"
 	},
 	"eula": {
 		"name": "優菈",
@@ -206,6 +235,10 @@
 		"name": "琴",
 		"title": "蒲公英騎士"
 	},
+	"kachina": {
+		"name": "卡齊娜",
+		"title": "斑金礦樸"
+	},
 	"kaedehara-kazuha": {
 		"name": "楓原萬葉",
 		"title": "紅葉逐荒波"
@@ -225,6 +258,10 @@
 	"keqing": {
 		"name": "刻晴",
 		"title": "霆霓快雨"
+	},
+	"kinich": {
+		"name": "基尼奇",
+		"title": "回火之狩"
 	},
 	"klee": {
 		"name": "可莉",
@@ -270,6 +307,10 @@
 		"name": "莫娜",
 		"title": "星天水镜"
 	},
+	"mualani": {
+		"name": "瑪拉妮",
+		"title": "嘩啦啦逐浪客"
+	},
 	"nahida": {
 		"name": "納西妲",
 		"title": "白草淨華"
@@ -293,6 +334,10 @@
 	"noelle": {
 		"name": "諾艾爾",
 		"title": "未受勳之花"
+	},
+	"ororon": {
+		"name": "歐洛倫",
+		"title": "深黯的謎煙"
 	},
 	"qiqi": {
 		"name": "七七",
@@ -318,6 +363,10 @@
 		"name": "早柚",
 		"title": "忍里之貉"
 	},
+	"sethos": {
+		"name": "賽索斯",
+		"title": "衡明知度"
+	},
 	"shenhe": {
 		"name": "申鹤",
 		"title": "孤辰煢懷"
@@ -325,6 +374,10 @@
 	"shikanoin-heizou": {
 		"name": "鹿野院平藏",
 		"title": "心朝乂安"
+	},
+	"sigewinne": {
+		"name": "希格雯",
+		"title": "龍女妙變"
 	},
 	"sucrose": {
 		"name": "砂糖",
@@ -365,6 +418,10 @@
 	"xiao": {
 		"name": "魈",
 		"title": "護法夜叉"
+	},
+	"xilonen": {
+		"name": "希諾寧",
+		"title": "焮火鑄魂"
 	},
 	"xingqiu": {
 		"name": "行秋",

@@ -1,8 +1,10 @@
 {
 	"a-thousand-floating-dreams": "A Thousand Floating Dreams",
+	"absolution": "Absolution",
 	"akuoumaru": "Akuoumaru",
 	"alley-hunter": "Alley Hunter",
 	"amos-bow": "Amos' Bow",
+	"astral-vultures-crimson-plumage": "Astral Vulture's Crimson Plumage",
 	"aqua-simulacra": "Aqua Simulacra",
 	"aquila-favonia": "Aquila Favonia",
 	"beacon-of-the-reed-sea": "Beacon of the Reed Sea",
@@ -12,6 +14,7 @@
 	"cashflow-supervision": "Cashflow Supervision",
 	"cool-steel": "Cool Steel",
 	"cranes-echoing-call": "Crane's Echoing Call",
+	"crimson_moon_s-semblance": "Crimson Moon's Semblance",
 	"debate-club": "Debate Club",
 	"dragon_s-bane": "Dragon's Bane",
 	"elegy-for-the-end": "Elegy for the End",
@@ -19,13 +22,16 @@
 	"engulfing-lightning": "Engulfing Lightning",
 	"everlasting-moonglow": "Everlasting Moonglow",
 	"eye-of-perception": "Eye of Perception",
+	"fang-of-the-mountain-king": "Fang of The Mountain King",
 	"favonius-codex": "Favonius Codex",
 	"favonius-greatsword": "Favonius Greatsword",
 	"favonius-lance": "Favonius Lance",
 	"favonius-sword": "Favonius Sword",
 	"favonius-warbow": "Favonius Warbow",
 	"ferrous-shadow": "Ferrous Shadow",
+	"flower-wreathed-feathers": "Flower-Wreathed Feathers",
 	"freedom-sworn": "Freedom-Sworn",
+	"fruitful-hook": "Fruitful Hook",
 	"haran-geppaku-futsu": "Haran Geppaku Futsu",
 	"harbinger-of-dawn": "Harbinger of Dawn",
 	"hunter_s-path": "Hunter's Path",
@@ -37,12 +43,15 @@
 	"lithic-blade": "Lithic Blade",
 	"lithic-spear": "Lithic Spear",
 	"lost-prayer-to-the-sacred-winds": "Lost Prayer to the Sacred Winds",
+	"lumidouce-elegy": "Lumidouce Elegy",
 	"magic-guide": "Magic Guide",
 	"makhaira-aquamarine": "Makhaira Aquamarine",
 	"memory-of-dust": "Memory of Dust",
 	"mistsplitter-reforged": "Mistsplitter Reforged",
 	"mitternachts-waltz": "Mitternachts Waltz",
+	"mountain-bracing-bolt": "Mountain-Bracing Bolt",
 	"mouun_s-moon": "Mouun's Moon",
+	"peak-patrol-song": "Peak Patrol Song",
 	"polar-star": "Polar Star",
 	"portable-power-saw": "Portable Power Saw",
 	"primordial-jade-cutter": "Primordial Jade Cutter",
@@ -58,6 +67,7 @@
 	"sacrificial-greatsword": "Sacrificial Greatsword",
 	"sacrificial-sword": "Sacrificial Sword",
 	"sharpshooter_s-oath": "Sharpshooter's Oath",
+	"silvershower-heartstrings": "Silvershower Heartstrings",
 	"skyrider-sword": "Skyrider Sword",
 	"skyward-atlas": "Skyward Atlas",
 	"skyward-blade": "Skyward Blade",
@@ -69,7 +79,9 @@
 	"splendor-of-tranquil-waters": "Splendor of Tranquil Waters",
 	"staff-of-homa": "Staff of Homa",
 	"staff-of-the-scarlet-sands": "Staff of the Scarlet Sands",
+	"sturdy-bone": "Sturdy Bone",
 	"summit-shaper": "Summit Shaper",
+	"surfs-up": "Surf's Up",
 	"the-alley-flash": "The Alley Flash",
 	"the-bell": "The Bell",
 	"the-dockhands-assistant": "The Dockhand's Assistant",
@@ -86,8 +98,9 @@
 	"verdict": "Verdict",
 	"vortex-vanquisher": "Vortex Vanquisher",
 	"wavebreaker_s-fin": "Wavebreaker's Fin",
-	"wine-and-song": "Wine and Song",
 	"wandering-evenstar": "Wandering Evenstar",
+	"waveriding-whirl": "Waveriding Whirl",
+	"wine-and-song": "Wine and Song",
 	"wolf_s-gravestone": "Wolf's Gravestone",
 	"xiphos-moonlight": "Xiphos' Moonlight",
 	"albedo": {
@@ -97,6 +110,10 @@
 	"alhaitham": {
 		"name": "Alhaitham",
 		"title": "Admonishing Instruction"
+	},
+	"arlecchino": {
+		"name": "Arlecchino",
+		"title": "Dire Balemoon"
 	},
 	"amber": {
 		"name": "Amber",
@@ -130,6 +147,10 @@
 		"name": "Charlotte",
 		"title": "Lens of Verity"
 	},
+	"chasca": {
+		"name": "Chasca",
+		"title": "Skyborne Arbiter"
+	},
 	"chevreuse": {
 		"name": "Chevreuse",
 		"title": "Executor of Justice"
@@ -137,6 +158,10 @@
 	"chongyun": {
 		"name": "Chongyun",
 		"title": "Frozen Ardor"
+	},
+	"clorinde": {
+		"name": "Clorinde",
+		"title": "Candlebearer, Shadowhunter"
 	},
 	"chiori": {
 		"name": "Chiori",
@@ -166,6 +191,10 @@
 		"name": "Dori",
 		"title": "Treasure of Dream Garden"
 	},
+	"emilie": {
+		"name": "Emilie",
+		"title": "A Thousand Scents Traced"
+	},
 	"eula": {
 		"name": "Eula",
 		"title": "The Sprindrift Knight"
@@ -176,7 +205,7 @@
 	},
 	"fischl": {
 		"name": "Fischl",
-		"title": "Prinzessin der Verurteilung"
+		"title": "Prinzessin der Verurteilung!"
 	},
 	"freminet": {
 		"name": "Freminet",
@@ -206,6 +235,10 @@
 		"name": "Jean",
 		"title": "Dandelion Knight"
 	},
+	"kachina": {
+		"name": "Kachina",
+		"title": "Mottled Gold Yet Unsmelted"
+	},
 	"kaedehara-kazuha": {
 		"name": "Kaedehara Kazuha",
 		"title": "Scarlet Leaves Pursue Wild Waves"
@@ -229,6 +262,10 @@
 	"keqing": {
 		"name": "Keqing",
 		"title": "Driving Thunder"
+	},
+	"kinich": {
+		"name": "Kinich",
+		"title": "Turnfire Hunt"
 	},
 	"kirara": {
 		"name": "Kirara",
@@ -270,6 +307,10 @@
 		"name": "Mona",
 		"title": "Astral Reflection"
 	},
+	"mualani": {
+		"name": "Mualani",
+		"title": "Splish-Splash Wavechaser"
+	},
 	"nahida": {
 		"name": "Nahida",
 		"title": "Physic of Purity"
@@ -294,6 +335,10 @@
 		"name": "Noelle",
 		"title": "Chivalric Blossom"
 	},
+	"ororon": {
+		"name": "Ororon",
+		"title": "Shadow of the Night-Wind"
+	},
 	"qiqi": {
 		"name": "Qiqi",
 		"title": "Icy Resurrection"
@@ -304,7 +349,7 @@
 	},
 	"razor": {
 		"name": "Razor",
-		"title": "Legend of Wolvendom"
+		"title": "Wolf Boy"
 	},
 	"rosaria": {
 		"name": "Rosaria",
@@ -318,6 +363,10 @@
 		"name": "Sayu",
 		"title": "Mujina Ninja"
 	},
+	"sethos": {
+		"name": "Sethos",
+		"title": "Wisdom's Measure"
+	},
 	"shenhe": {
 		"name": "Shenhe",
 		"title": "Lonesome Transcendence"
@@ -325,6 +374,10 @@
 	"shikanoin-heizou": {
 		"name": "Shikanoin Heizou",
 		"title": "Analytical Harmoni"
+	},
+	"sigewinne": {
+		"name": "Sigewinne",
+		"title": "Wondrous Dragonheir"
 	},
 	"sucrose": {
 		"name": "Sucrose",
@@ -365,6 +418,10 @@
 	"xiao": {
 		"name": "Xiao",
 		"title": "Vigilant Yaksha"
+	},
+	"xilonen": {
+		"name": "Xilonen",
+		"title": "Ardent Flames Forge the Soul"
 	},
 	"xingqiu": {
 		"name": "Xingqiu",

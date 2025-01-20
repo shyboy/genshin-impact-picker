@@ -1,8 +1,10 @@
 {
 	"a-thousand-floating-dreams": "千夜に浮かぶ夢",
+	"absolution": "赦罪",
 	"akuoumaru": "惡王丸",
 	"alley-hunter": "ダークアレイの狩人",
 	"amos-bow": "アモスの弓",
+	"astral-vultures-crimson-plumage": "星鷲の紅き羽",
 	"aqua-simulacra": "若水",
 	"aquila-favonia": "風鷹剣",
 	"beacon-of-the-reed-sea": "葦海の標",
@@ -12,6 +14,7 @@
 	"cashflow-supervision": "凛流の監視者",
 	"cool-steel": "冷刃",
 	"cranes-echoing-call": "鶴鳴の余韻",
+	"crimson_moon_s-semblance": "赤月のシルエット",
 	"debate-club": "理屈責め",
 	"dragon_s-bane": "匣中滅龍",
 	"elegy-for-the-end": "終焉を嘆く詩",
@@ -19,13 +22,16 @@
 	"engulfing-lightning": "草薙の稲光",
 	"everlasting-moonglow": "不滅の月華",
 	"eye-of-perception": "昭心",
+	"fang-of-the-mountain-king": "山の王の長牙",
 	"favonius-codex": "西風秘典",
 	"favonius-greatsword": "西風大剣",
 	"favonius-lance": "西風長槍",
 	"favonius-sword": "西風剣",
 	"favonius-warbow": "西風猟弓",
 	"ferrous-shadow": "鉄影段平",
+	"flower-wreathed-feathers": "花飾りの羽",
 	"freedom-sworn": "蒼古なる自由への誓い",
+	"fruitful-hook": "フルートゥフル・フック",
 	"haran-geppaku-futsu": "波乱月白経津",
 	"harbinger-of-dawn": "黎明の神剣",
 	"hunter_s-path": "狩人の道",
@@ -37,12 +43,15 @@
 	"lithic-blade": "千岩古剣",
 	"lithic-spear": "千岩長槍",
 	"lost-prayer-to-the-sacred-winds": "四風原典",
+	"lumidouce-elegy": "ルミドゥースの挽歌",
 	"magic-guide": "魔導緒論",
 	"makhaira-aquamarine": "マカイラの水色",
 	"memory-of-dust": "浮世の錠",
 	"mistsplitter-reforged": "霧切の廻光",
 	"mitternachts-waltz": "幽夜のワルツ",
+	"mountain-bracing-bolt": "鎮山の釘",
 	"mouun_s-moon": "曚雲の月",
+	"peak-patrol-song": "岩峰巡礼の歌",
 	"polar-star": "冬極の白星",
 	"portable-power-saw": "携帯型チェーンソー",
 	"primordial-jade-cutter": "磐岩結緑",
@@ -58,6 +67,7 @@
 	"sacrificial-greatsword": "祭礼の大剣",
 	"sacrificial-sword": "祭礼の剣",
 	"sharpshooter_s-oath": "シャープシューターの誓い",
+	"silvershower-heartstrings": "白雨心弦",
 	"skyrider-sword": "飛天御剣",
 	"skyward-atlas": "天空の巻",
 	"skyward-blade": "天空の刃",
@@ -69,7 +79,9 @@
 	"splendor-of-tranquil-waters": "静水流転の輝き",
 	"staff-of-homa": "護摩の杖",
 	"staff-of-the-scarlet-sands": "赤砂の杖",
+	"sturdy-bone": "ストロング・ボーン",
 	"summit-shaper": "斬山の刃",
+	"surfs-up": "サーフィンタイム",
 	"the-alley-flash": "ダークアレイの閃光",
 	"the-bell": "鐘の剣",
 	"the-dockhands-assistant": "船渠剣",
@@ -86,8 +98,9 @@
 	"verdict": "裁断",
 	"vortex-vanquisher": "破天の槍",
 	"wavebreaker_s-fin": "斬波のひれ長",
-	"wine-and-song": "ダークアレイの酒と詩",
+	"waveriding-whirl": "波乗りの旋回",
 	"wandering-evenstar": "彷徨える星",
+	"wine-and-song": "ダークアレイの酒と詩",
 	"wolf_s-gravestone": "狼の末路",
 	"xiphos-moonlight": "サイフォスの月明かり",
 	"albedo": {
@@ -97,6 +110,10 @@
 	"alhaitham": {
 		"name": "アルハイゼン",
 		"title": "権謀教戒"
+	},
+	"arlecchino": {
+		"name": "アルレッキーノ",
+		"title": "暝天の凶月"
 	},
 	"amber": {
 		"name": "アンバー",
@@ -130,6 +147,10 @@
 		"name": "シャルロット",
 		"title": "真実を求める曇りなきモノクル"
 	},
+	"chasca": {
+		"name": "チャスカ",
+		"title": "巡空の裁翼"
+	},
 	"chevreuse": {
 		"name": "シュヴルーズ",
 		"title": "厳罰を与える法の通暁者"
@@ -141,6 +162,10 @@
 	"chongyun": {
 		"name": "重雲",
 		"title": "雪消の跡"
+	},
+	"clorinde": {
+		"name": "クロリンデ",
+		"title": "燭火を携えた影の狩人"
 	},
 	"collei": {
 		"name": "コレイ",
@@ -165,6 +190,10 @@
 	"dori": {
 		"name": "ドリー",
 		"title": "夢の庭に隠せし財宝"
+	},
+	"emilie": {
+		"name": "エミリエ",
+		"title": "千の跡を辿って"
 	},
 	"eula": {
 		"name": "エウルア",
@@ -206,6 +235,10 @@
 		"name": "ジン",
 		"title": "蒲公英騎士"
 	},
+	"kachina": {
+		"name": "カチーナ",
+		"title": "金の混じる原鉱"
+	},
 	"kaedehara-kazuha": {
 		"name": "楓原万葉",
 		"title": "風波流浪の紅葉"
@@ -229,6 +262,10 @@
 	"keqing": {
 		"name": "刻晴",
 		"title": "疾雷快雨"
+	},
+	"kinich": {
+		"name": "キィニチ",
+		"title": "廻焔を継ぐ狩人"
 	},
 	"kirara": {
 		"name": "綺良々",
@@ -270,6 +307,10 @@
 		"name": "モナ",
 		"title": "星天水鏡"
 	},
+	"mualani": {
+		"name": "ムアラニ",
+		"title": "ざぶざぶウェーブチェイサー"
+	},
 	"nahida": {
 		"name": "ナヒーダ",
 		"title": "白草浄華"
@@ -293,6 +334,10 @@
 	"noelle": {
 		"name": "ノエル",
 		"title": "騎士道の花咲"
+	},
+	"ororon": {
+		"name": "オロルン",
+		"title": "暗黒の謎煙"
 	},
 	"qiqi": {
 		"name": "七七",
@@ -318,6 +363,10 @@
 		"name": "早柚",
 		"title": "忍びの里の貉"
 	},
+	"sethos": {
+		"name": "セトス",
+		"title": "知恵のはかり手"
+	},
 	"shenhe": {
 		"name": "申鶴",
 		"title": "孤辰悲哀"
@@ -325,6 +374,10 @@
 	"shikanoin-heizou": {
 		"name": "鹿野院平藏",
 		"title": "乂安を願うもの"
+	},
+	"sigewinne": {
+		"name": "シグウィン",
+		"title": "龍の愛娘"
 	},
 	"sucrose": {
 		"name": "スクロース",
@@ -365,6 +418,10 @@
 	"xiao": {
 		"name": "魈",
 		"title": "護法夜叉"
+	},
+	"xilonen": {
+		"name": "シロネン",
+		"title": "魂を鋳る烈火"
 	},
 	"xingqiu": {
 		"name": "行秋",
